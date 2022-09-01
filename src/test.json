@@ -1,0 +1,225 @@
+[
+{
+  "data": {
+          "info": [
+            {
+              "tag": {
+                "qt": "",
+                "gst": {
+                  "name": "",
+                  "message": ""
+                },
+                "pref": {
+                  "cli": "",
+                  "iti": ""
+                },
+                "rank": 90
+              },
+              "name": "Nazri resort hotel",
+              "chain": null,
+              "image": "NA",
+              "source": "desiya",
+              "gst_tag": 0,
+              "hotelId": "00004644",
+              "package": null,
+              "quality": 1,
+              "cli_pref": 0,
+              "cvwdm_id": 8607,
+              "distance": {
+                "unit": "KM",
+                "value": 0.5
+              },
+              "location": {
+                "lat": 15.558135,
+                "lng": 73.75602
+              },
+              "sessionId": "NA",
+              "itilite_id": 1326893,
+              "starRating": 3,
+              "visibility": true,
+              "deal_group_id": 0,
+              "selected_room": {
+                "tds": 1196.62,
+                "taxes": 755.76,
+                "total": 7053.76,
+                "markup": -1410.75,
+                "spl_tg": [
+                  {
+                    "id": 1,
+                    "tag_name": "Safe ++",
+                    "tag_description": "This property is COVID-19 Safety Complaint"
+                  },
+                  {
+                    "id": 2,
+                    "tag_name": "Instant Book",
+                    "tag_description": "instant_book"
+                  }
+                ],
+                "Percent": 19,
+                "discount": 702,
+                "commision": 1196.62,
+                "final_tax": 755.76,
+                "inclusion": "Complimentary Wi-Fi Internet,  Breakfast,  Valentines day special compulsory dinner on 14th Feb at 3000 per couple and 1500 per extra adult and child 06 -12 yrs at 1000 with inclusive of buffet & unlimited in-house brands of alcoholic & non alcoholic beverages and entertainment.,  Compulsory Gala Dinner charges applicable for Christmas and New Year to be paid at the hotel directly by the guest,  ",
+                "netamount": 7053.76,
+                "plan_code": "0000343523",
+                "room_type": "Standard room non balcony",
+                "base_price": 7000,
+                "refund_tag": "",
+                "markup_type": "percent",
+                "actual_total": 7053.76,
+                "markup_value": -20,
+                "total_nights": 2,
+                "vendor_price": {
+                  "tax": 755.76,
+                  "deal": null,
+                  "discount": 702,
+                  "base_price": 7000,
+                  "net_amount": 7053.76,
+                  "rate_per_night": 3526.88,
+                  "commission_details": {
+                    "amount": 1196.62,
+                    "percent": 19,
+                    "net_commission": 1196.62,
+                    "tax_on_commission": 182.54,
+                    "tax_on_commission_desc": "GST inclusive of Affiliate Commission"
+                  }
+                },
+                "NetCommission": 1196.62,
+                "itilite_price": {
+                  "tax": 604.61,
+                  "discount": 0,
+                  "base_price": 5038.4,
+                  "net_amount": 5643.01,
+                  "markup_type": "percent",
+                  "markup_price": -1410.75,
+                  "markup_value": -20,
+                  "rate_per_night": 2821.51
+                },
+                "rate_plan_code": "0000343523",
+                "room_deal_code": "",
+                "room_type_code": "0000088123",
+                "TaxOnCommission": 182.54,
+                "final_base_price": 7000,
+                "includes_breakfast": true,
+                "TaxOnCommissionDesc": "GST inclusive of Affiliate Commission",
+                "per_room_night_price": 3526.88,
+                "base_price_after_discount": 7000
+              },
+              "customerRating": {
+                "rating": 4,
+                "provider": "tripAdvisor",
+                "numReviews": 928
+              },
+              "tvlr_preferred": false,
+              "cancellation_policy": null
+            }
+          ],
+          "name": "Nazri resort hotel",
+          "type": "hotel",
+          "address": "Saunta Waddo, Calangute,,Baga - Bardez,Baga,GOA,GOA,India,Pin-403516",
+          "request": {
+            "customize_gst_abstraction": "NA"
+          },
+          "check_in": "17 Jul 2022",
+          "leg_uuid": "29e570e0-039a-11ed-bb63-0a899d8a74c7",
+          "location": "Nazri Resort, Titos Lane, Saunta Vaddo, Baga, Goa, India",
+          "check_out": "19 Jul 2022",
+          "preferred": false,
+          "unique_id": 1326893,
+          "deal_codes": null,
+          "deal_group_id": 0,
+          "manual_option": 0,
+          "static_leg_id": "546434",
+          "static_leg_no": "2",
+          "corporate_rate": false,
+          "multi_occupancy": false,
+          "static_leg_uuid": "a06ba6c8-9d62-47e7-9eb5-e30d9b075f1b",
+          "corporate_booking": false,
+          "occupancy_details": [],
+          "traveller_preferred": false,
+          "hotel_corporate_deal": 1,
+          "searchedHotelAvailableInOptions": false
+        },
+  "type": "hotel"
+},
+{
+  "data": {
+  "td": 75,
+  "api": "ach",
+  "pax": {
+    "adt": [],
+    "chd": [],
+    "inf": []
+  },
+  "class": "economy",
+  "filters": {
+    "arrival_date_timestamp": 1658081400,
+    "departure_date_timestamp": 1658076900
+  },
+  "flights": [
+    {
+      "to": "GOI",
+      "via": [],
+      "from": "BOM",
+      "baggage": {
+        "cabin": "7 Kg",
+        "check_in": "15 Kg"
+      },
+      "carrier_id": "6E 399",
+      "class_code": "M",
+      "carrier_iata": "6E",
+      "carrier_name": "IndiGo",
+      "result_index": "RS1",
+      "flight_duration": 75,
+      "arrival_date_time": "17-07-2022 18:10",
+      "departure_date_time": "17-07-2022 16:55"
+    }
+  ],
+  "fullDay": 0,
+  "request": {
+    "travel_to": "Goa, India (GOI)",
+    "travel_date": "17 Jul 2022",
+    "travel_from": "Mumbai, India (BOM)",
+    "travel_type": "domestic",
+    "travel_time_end": 18,
+    "travel_time_start": 16,
+    "customize_gst_abstraction": "NA"
+  },
+  "cvwdm_id": 8625,
+  "leg_uuid": "29e4fb8d-039a-11ed-bb63-0a899d8a74c7",
+  "trace_id": "1fe6a71f-fbea-4d7f-b27d-250793ef8366",
+  "fare_type": "ec",
+  "unique_id": "49294aea039a11ed88510d24fcdc3acd",
+  "base_price": 2323,
+  "fare_brand": "1115346",
+  "sale_price": 3007,
+  "compare_fare": 3007,
+  "final_amount": 3007,
+  "result_index": "RS1",
+  "manual_option": 0,
+  "product_class": null,
+  "refund_status": "Non-Refundable",
+  "static_leg_id": "546433",
+  "static_leg_no": "1",
+  "codeshare_hash": "c9c4c720-48b2-383c-bf80-b51490e19a63",
+  "fare_selection": "SME",
+  "total_duration": "1h 15m",
+  "fare_basis_code": [
+    [
+      "SMIP"
+    ]
+  ],
+  "fare_brand_name": "Corp Connect Fare",
+  "static_leg_uuid": "dc76e80f-af5b-4366-84d6-9d3f0cfc97a3",
+  "multivendor_hash": "cc979977-9644-3d60-aa54-d8cf3f6bfcc4",
+  "flight_start_date": "17-07-2022",
+  "connection_priorty": 1,
+  "special_instructions": [],
+  "static_return_leg_id": null,
+  "static_return_leg_no": null,
+  "compare_fare_priority": 2,
+  "static_return_leg_uuid": null
+},
+  "type": "flight"
+}
+]
